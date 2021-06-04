@@ -1,6 +1,6 @@
 # REM_GMM
 
-﻿This folder contains the raw data and code used for analysis in the paper ‘A probabilistic model for the ultradian timing of REM sleep in mice’. 
+﻿This folder contains the code used for analysis in the paper ‘A probabilistic model for the ultradian timing of REM sleep in mice’. 
  
  Code:
 * Not all files in this folder contain code. However, they were placed in the same folder because having all these files in one directory makes it easier to run the analyses
