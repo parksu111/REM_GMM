@@ -49,4 +49,6 @@ This repository contains the code used for analysis in the paper [A probabilisti
   * gmm10DF.csv - GMM parameters with 10 second MA threshold
   * gmm30DF.csv - GMM parameters with 30 second MA threshold
 
+
+## Data
 All the data used for this project can be downloaded [here](https://upenn.box.com/s/3zcesr4a7l7hgb9andmq4di4t6zvaoql).
