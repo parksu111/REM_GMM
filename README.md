@@ -1,6 +1,6 @@
 # A probabilistic model for the ultradian timing of REM sleep in mice
 
-﻿This folder contains the code used for analysis in the paper ‘A probabilistic model for the ultradian timing of REM sleep in mice’. 
+﻿This repository contains the code used for analysis in the paper [A probabilistic model for the ultradian timing of REM sleep in mice](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009316). 
  
  **Abstract**
  <br>
